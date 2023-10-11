@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1000,
+        "title": "The Great Gatsby",
+        "authors": [
+            "F. Scott Fitzgerald"
+        ],
+        "year": 1925,
+        "isbn": "978-0743273565",
+        "ratings": 4.5,
+        "reviews": 120,
+        "description": "The Great Gatsby is a novel by F. Scott Fitzgerald that tells the story of Jay Gatsby, a millionaire, and his unrequited love for Daisy Buchanan.",
+        "language": "English",
+        "customer_reviews": [
+            {
+                "user": "Alice",
+                "rating": 5,
+                "comment": "A classic that everyone should read!"
+            },
+            {
+                "user": "Bob",
+                "rating": 4,
+                "comment": "I enjoyed the storytelling but found it a bit slow."
+            }
+        ]
+    },
+    {
+        "id": 1001,
+        "title": "The Catcher in the Rye",
+        "authors": [
+            "J.D. Salinger"
+        ],
+        "year": 1951,
+        "isbn": "978-0316769174",
+        "ratings": 4.0,
+        "reviews": 150,
+        "description": "The Catcher in the Rye is a novel by J.D. Salinger that follows the experiences of Holden Caulfield, a young man in New York City.",
+        "language": "English",
+        "customer_reviews": [
+            {
+                "user": "Alice",
+                "rating": 5,
+                "comment": "One of my all-time favorites!"
+            },
+            {
+                "user": "Bob",
+                "rating": 4,
+                "comment": "A classic coming-of-age story."
+            }
+        ]
+    },
+    {
+        "id": 1002,
+        "title": "To Kill a Mockingbird",
+        "authors": [
+            "Harper Lee"
+        ],
+        "year": 1960,
+        "isbn": "978-0061120084",
+        "ratings": 4.3,
+        "reviews": 130,
+        "description": "To Kill a Mockingbird is a novel by Harper Lee set in the American South during the 1930s. It addresses issues of racial injustice and moral growth.",
+        "language": "English",
+        "customer_reviews": [
+            {
+                "user": "Carol",
+                "rating": 5,
+                "comment": "A powerful and thought-provoking book."
+            },
+            {
+                "user": "David",
+                "rating": 4,
+                "comment": "A must-read classic."
+            }
+        ]
+    }
+]
